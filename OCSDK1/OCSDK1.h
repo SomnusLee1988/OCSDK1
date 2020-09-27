@@ -9,6 +9,6 @@
 #ifndef OCSKD1_h
 #define OCSKD1_h
 
-#import <OCSDK1/OCSDK1.h>
+#import <OCSDK1/OCModule.h>
 
 #endif /* OCSKD1_h */
