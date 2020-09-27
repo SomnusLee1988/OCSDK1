@@ -30,6 +30,6 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'OCSDK1/**/*.{h,m,swift}'
 #  s.public_header_files = 'OCSDK1/OCSDK1.h'
-  s.static_framework = true
+#  s.static_framework = true
 
 end
