@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'OCSDK1'
-  s.version          = '1.0.0'
-  s.summary          = ''
+  s.version          = '1.0.1'
+  s.summary          = 'OCSDK1'
   s.swift_version    = '5.0'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/SomnusLee1988/OCSDK1'
   s.license          = { :'type' => 'Copyright', :'text' => ' hui '}
   s.author           = 'hui'
-  s.source           = { :git => 'git@github.com:SomnusLee1988/OCSDK1.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/SomnusLee1988/Specs.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
